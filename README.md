@@ -14,4 +14,8 @@ The objective of this analysis is to help the company understands the behavioral
 ## Business Questions 
 1. Who are our Best Customers?
   
+<img width="374" height="164" alt="image" src="https://github.com/user-attachments/assets/2aa4a20f-a072-4bda-8086-292d7a7c8aaf" />
+
+
+2. Who needs a retention Campaign
 
