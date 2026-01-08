@@ -8,3 +8,5 @@ Recency, frequency, and monetary (RFM) analysis is a customer segmentation techn
 ## Objective of the Analysis
 The objective of this analysis is to help the company understands the behavioral pattern of the customers by answering the following business questions so as to make informed decision about marketing campaign strategy to reduce churn rate.
 
+## Tools
+- Microsoft Excel 
