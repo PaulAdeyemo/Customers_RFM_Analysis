@@ -107,6 +107,9 @@ Recommended actions: personalized discounts, reactivation emails, win-back campa
 
 - Translating data into actionable business recommendations
 
+<img width="617" height="275" alt="image" src="https://github.com/user-attachments/assets/14a540f6-2b92-4748-9ff5-43b1da8bf430" />
+
+
 ## Business Recommendations
 
 - Prioritize retention strategies for at-risk high-value customers
